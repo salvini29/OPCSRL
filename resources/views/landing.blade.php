@@ -45,23 +45,15 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="{{route('landing')}}">Inicio</a></li>
-          <li class="drop-down"><a href="">About</a>
+          <li class="drop-down"><a href="">Acerca</a>
             <ul>
-              <li><a href="#about">About Us</a></li>
-              <li><a href="#team">Team</a></li>
-              <li class="drop-down"><a href="#">Deep Drop Dow</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
+              <li><a href="#about">Nosotros</a></li>
+              <li><a href="#team">Equipo</a></li>
+              <li><a href="#historia">Historia</a></li>
             </ul>
           </li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#services">Servicios</a></li>
+          <li><a href="#portfolio">Imagenes</a></li>
           <li><a href="#testimonials">Testimonios</a></li>
           <li><a href="#contact">Contacto</a></li>
 
@@ -69,10 +61,10 @@
       </nav><!-- .nav-menu -->
 
       <div class="header-social-links">
-        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+    {{--<a href="#" class="twitter"><i class="icofont-twitter"></i></a>
         <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>--}}
       </div>
 
     </div>
@@ -94,32 +86,32 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>What We Do</h2>
-          <p>Magnam dolores commodi suscipit consequatur ex aliquid</p>
+          <h2>Que hacemos en OPC?</h2>
+          <p>Estamos comprometidos a brindar servicio de seguridad y monitoreo de alto nivel</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <div class="icon"><i class="bx bx-check-shield"></i></div>
+              <h4><a href="">Seguridad Fisica</a></h4>
+              <p>Ofrecemos seguridad privada con personal altamente capacitado y responsable</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <div class="icon"><i class="bx bx-camera-home"></i></div>
+              <h4><a href="">Monitoreo con Camaras</a></h4>
+              <p>Ofrecemos monitoreo por camara con los mejores productos disponibles</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="bx bx-run"></i></div>
+              <h4><a href="">Efectividad y Compromiso</a></h4>
+              <p>Nos caracterizamos por una altisima expeditividad y compromiso a nuestro trabajo</p>
             </div>
           </div>
 
@@ -137,7 +129,7 @@
             <img src="{{ asset('img/acerca.jpg') }}" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>About Us</h3>
+            <h3>Sobre Nosotros</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
@@ -162,68 +154,7 @@
 
       </div>
     </section><!-- End About Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills">
-      <div class="container">
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Skills Section -->
-
+    <br>
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
       <div class="container">
@@ -233,24 +164,24 @@
           <div class="col-lg-3 col-6">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
-              <p>Happy Clients</p>
+              <span data-toggle="counter-up">200</span>
+              <p>Clientes Satisfechos</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-6">
             <div class="count-box">
               <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
-              <p>Projects</p>
+              <span data-toggle="counter-up">200</span>
+              <p>Trabajos realizados</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-6 mt-5 mt-lg-0">
             <div class="count-box">
-              <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p>Hours Of Support</p>
+              <i class="icofont-police-cap"></i>
+              <span data-toggle="counter-up">1,530</span>
+              <p>Horas de Seguridad</p>
             </div>
           </div>
 
@@ -258,7 +189,7 @@
             <div class="count-box">
               <i class="icofont-users-alt-5"></i>
               <span data-toggle="counter-up">15</span>
-              <p>Hard Workers</p>
+              <p>Empleados Dedicados</p>
             </div>
           </div>
 
@@ -272,15 +203,15 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Servicios</h2>
+          <p>Nos destacamos en los siguientes servicios que ofrecemos</p>
         </div>
 
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box">
               <i class="icofont-computer"></i>
-              <h4><a href="#">Lorem Ipsum</a></h4>
+              <h4><a href="">Lorem Ipsum</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
@@ -329,69 +260,69 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit</p>
+          <h2>Imagenes</h2>
+          <p>Nuestras imagenes para que nos conozcas mejor</p>
         </div>
 
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">TODAS</li>
+              <li data-filter=".filter-camaras">CAMARAS</li>
+              <li data-filter=".filter-seguridad">SEGURIDAD</li>
+              <li data-filter=".filter-logo">LOGO</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-seguridad wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="{{ asset('img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-1.jpg') }}" data-gall="portfolioGallery" class="link-preview venobox" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="{{ asset('img/portfolio/monitoreo.jpg') }}" class="img-fluid" alt="">
+                <a href="{{ asset('img/portfolio/monitoreo.jpg') }}" data-gall="portfolioGallery" class="link-preview venobox" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Centro de monitoreo</a></h4>
+                <p>Monitoreo de camaras</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-logo wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="{{ asset('img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-2.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="{{ asset('img/portfolio/logo800x600.jpg') }}" class="img-fluid" alt="">
+                <a href="{{ asset('img/portfolio/logo800x600.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                <h4><a href="portfolio-details.html">Nuestro Logo</a></h4>
+                <p>El logo de nuestra empresa</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-camaras wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="{{ asset('img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-3.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="{{ asset('img/portfolio/camara.jpg') }}" class="img-fluid" alt="">
+                <a href="{{ asset('img/portfolio/camara.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Camara</a></h4>
+                <p>Nuestra camara monitoreando</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
+          {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
                 <img src="{{ asset('img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
@@ -479,7 +410,7 @@
                 <p>Web</p>
               </div>
             </div>
-          </div>
+          </div> --}}
 
         </div>
 
@@ -503,7 +434,7 @@
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
           </div>
@@ -514,7 +445,7 @@
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
             <h3>Sara Wilsson</h3>
             <h4>Designer</h4>
           </div>
@@ -525,7 +456,7 @@
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
           </div>
@@ -536,7 +467,7 @@
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
           </div>
@@ -547,7 +478,7 @@
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
           </div>
@@ -562,7 +493,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Team</h2>
+          <h2>Equipo</h2>
           <p>Sit sint consectetur velit quos quisquam cupiditate nemo qui</p>
         </div>
 
@@ -641,19 +572,19 @@
                 <div class="col-lg-4 info">
                   <i class="icofont-google-map"></i>
                   <h4>Ubicacion:</h4>
-                  <p>A108 Adam Street<br>New York, NY 535022</p>
+                  <p>Monroe 2764 6 “A”</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="icofont-envelope"></i>
                   <h4>Email:</h4>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>opcsrlseguridad@gmail.com</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="icofont-phone"></i>
                   <h4>Numero:</h4>
-                  <p>+1 5589 55488 51<br>+1 5589 22475 14</p>
+                  <p>5351-7866</p>
                 </div>
               </div>
             </div>
@@ -699,45 +630,29 @@
   <footer id="footer">
 
     <div class="footer-top">
+      <section id="historia">
       <div class="container">
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Lumia</h3>
+            <h3>OPC SRL</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Monroe 2764 6 “A” <br>
+              CABA, Buenos Aires<br>
+              Argentina <br><br>
+              <strong>Telefono:</strong> 5351-7866<br>
+              <strong>Email:</strong> opcsrlseguridad@gmail.com<br>
             </p>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
+          <div class="col-lg-4 col-md-6 footer-contact">
+            <h4>Nuestra historia</h4>
+            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+          <div class="col-lg-5 col-md-6 footer-contact">
+            <h4>Mision y Vision</h4>
+            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </div>
 
         </div>
@@ -751,16 +666,16 @@
           &copy; Copyright <strong><span>OPC SRL</span></strong>. Todos los derechos reservados
         </div>
         <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a class="twitter"></a>
+        <a class="facebook"></a>
+        <a class="instagram"></a>
+        <a class="google-plus"></a>
+        <a class="linkedin"></a>
       </div>
+      </section>
     </div>
   </footer><!-- End Footer -->
 
