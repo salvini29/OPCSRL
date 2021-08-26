@@ -49,12 +49,12 @@
             <ul>
               <li><a href="#about">Nosotros</a></li>
               <li><a href="#team">Equipo</a></li>
-              <li><a href="#historia">Historia</a></li>
+              <li><a href="#particularidades">Particularidades</a></li>
             </ul>
           </li>
           <li><a href="#services">Servicios</a></li>
           <li><a href="#portfolio">Imagenes</a></li>
-          <li><a href="#testimonials">Testimonios</a></li>
+          <li><a href="#testimonials">Clientes</a></li>
           <li><a href="#contact">Contacto</a></li>
 
         </ul>
@@ -129,24 +129,24 @@
             <img src="{{ asset('img/acerca.jpg') }}" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Sobre Nosotros</h3>
+            <h3>Sobre nosotros</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Aseguramos a todos nuestros clientes confianza, experiencia (30 años en el mercado), calidad, precio competitivo, seguridad, compromiso, trato personalizado, respuesta inmediata y honestidad. 
             </p>
             <ul>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="bx bx-check-double"></i> Buenas recomendaciones de parte de todos los clientes.</li>
+              <li><i class="bx bx-check-double"></i> Buena atención personalizada a cada uno de nuestros clientes.</li>             
             </ul>
             <div class="row icon-boxes">
               <div class="col-md-6">
-                <i class="bx bx-receipt"></i>
-                <h4>Corporis voluptates sit</h4>
-                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                <i class="bx bx-dollar"></i>
+                <h4>Valor de servicio</h4>
+                <p>Tenemos un valor altamente competitivo respecto a las demas opciones del mercado.</p>
               </div>
               <div class="col-md-6 mt-4 mt-md-0">
-                <i class="bx bx-cube-alt"></i>
-                <h4>Ullamco laboris nisi</h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <i class="bx bx-happy-alt"></i>
+                <h4>Calidad de servicio</h4>
+                <p>Nos diferenciamos con una calidad de servicio muy superior respecto a la competencia.</p>
               </div>
             </div>
           </div>
@@ -210,44 +210,44 @@
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box">
-              <i class="icofont-computer"></i>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <i class="icofont-police-cap"></i>
+              <h4><a>Seguridad física</a></h4>
+              <p>Proveemos el personal capacitado para la detección y prevención de riesgos para la protección</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-lg-0">
             <div class="icon-box">
-              <i class="icofont-chart-bar-graph"></i>
-              <h4><a href="#">Dolor Sitema</a></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <i class="icofont-ui-alarm"></i>
+              <h4><a>Sistemas de alarmas</a></h4>
+              <p>Ofrecemos sistemas de alarmas con tecnología punta para edificios, casas, predios y más</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
-              <i class="icofont-image"></i>
-              <h4><a href="#">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <i class="icofont-cc-camera"></i>
+              <h4><a>Sistemas de circuito cerrado de televisión</a></h4>
+              <p>Disponemos de la tecnología de videovigilancia diseñada para supervisar una diversidad de ambientes y actividades asegurando areas enteras</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
-              <i class="icofont-settings"></i>
-              <h4><a href="#">Nemo Enim</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <i class="icofont-calculator-alt-2"></i>
+              <h4><a>Sistemas para control</a></h4>
+              <p>Manejamos perfectamente sistemas diseñados exclusivamente para el control de acceso y sistemas de control de horario</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
-              <i class="icofont-earth"></i>
-              <h4><a href="#">Magni Dolore</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <i class="icofont-investigation"></i>
+              <h4><a>Estudios de seguridad</a></h4>
+              <p>Realizamos estudios de instalaciones que permiten identificar las amenazas a las que su instalación está expuesta</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
-              <i class="icofont-tasks-alt"></i>
-              <h4><a href="#">Eiusmod Tempor</a></h4>
-              <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <i class="icofont-read-book"></i>
+              <h4><a>Auditoría y gerenciamiento</a></h4>
+              <p>Estamos capacitados para poder auditar y gerenciar todo lo relacionado a cuestiones de seguridad</p>
             </div>
           </div>
         </div>
@@ -281,12 +281,12 @@
             <div class="portfolio-wrap">
               <figure>
                 <img src="{{ asset('img/portfolio/monitoreo.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/monitoreo.jpg') }}" data-gall="portfolioGallery" class="link-preview venobox" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="{{ asset('img/portfolio/monitoreo.jpg') }}" data-gall="portfolioGallery" class="link-preview venobox" title="Agrandar"><i class="bx bx-plus"></i></a>
+                <a href="/img/portfolio/monitoreo.jpg" class="link-details" title="Copiar Link"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Centro de monitoreo</a></h4>
+                <h4><a>Centro de monitoreo</a></h4>
                 <p>Monitoreo de camaras</p>
               </div>
             </div>
@@ -296,12 +296,12 @@
             <div class="portfolio-wrap">
               <figure>
                 <img src="{{ asset('img/portfolio/logo800x600.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/logo800x600.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="{{ asset('img/portfolio/logo800x600.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Agrandar"><i class="bx bx-plus"></i></a>
+                <a href="/img/portfolio/logo800x600.jpg" class="link-details" title="Copiar Link"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Nuestro Logo</a></h4>
+                <h4><a>Nuestro Logo</a></h4>
                 <p>El logo de nuestra empresa</p>
               </div>
             </div>
@@ -311,106 +311,16 @@
             <div class="portfolio-wrap">
               <figure>
                 <img src="{{ asset('img/portfolio/camara.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/camara.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="{{ asset('img/portfolio/camara.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Agrandar"><i class="bx bx-plus"></i></a>
+                <a href="/img/portfolio/camara.jpg" class="link-details" title="Copiar Link"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Camara</a></h4>
+                <h4><a>Camara</a></h4>
                 <p>Nuestra camara monitoreando</p>
               </div>
             </div>
           </div>
-
-          {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-4.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Card 2</a></h4>
-                <p>Card</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-5.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-5.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 2</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-6.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 3</a></h4>
-                <p>App</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-7.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-7.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Card 1</a></h4>
-                <p>Card</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-8.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-8.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Card 3</a></h4>
-                <p>Card</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="{{ asset('img/portfolio/portfolio-9.jpg') }}" class="img-fluid" alt="">
-                <a href="{{ asset('img/portfolio/portfolio-9.jpg') }}" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 1</a></h4>
-                <p>Web</p>
-              </div>
-            </div>
-          </div> --}}
 
         </div>
 
@@ -422,66 +332,164 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Testimonios</h2>
-          <p>Algunas recomendaciones de nuestros clientes</p>
+          <h2>Clientes</h2>
+          <p>Algunos de nuestros clientes que confian en nosotros</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
 
-          <div class="testimonial-item">
+          {{-- <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
+            <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
+          </div> --}}
+
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de los propietarios Arribeños</h3>
+            <h4>2153</h4>
           </div>
 
           <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de los propietarios La Pampa</h3>
+            <h4>2944 53</h4>
           </div>
 
           <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de copropietarios Gorostiaga</h3>
+            <h4>2318 20 22 24 26</h4>
           </div>
 
           <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Edificio Alsina</h3>
+            <h4>2886</h4>
           </div>
 
           <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="{{ asset('img/testimonials/cliente.png') }}" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Edificio Olleros</h3>
+            <h4>1900 esq.luis m.campos 1091</h4>
           </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Propiedad Luis Maria Campos</h3>
+            <h4>1519</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Propiedad Luis Maria Campos</h3>
+            <h4>1519</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Carlos Pellegrini</h3>
+            <h4>885 887</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Calle Arcos</h3>
+            <h4>1755 1757 1759</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio Edificio Manuel Ugarte</h3>
+            <h4>2341 45 51</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de copropietarios Santa Fe</h3>
+            <h4>4860 CAP</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de propietarios Conesa</h3>
+            <h4>976 86 92</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Consorcio de propietarios Acoyte y Vallese</h3>
+            <h4>450</h4>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <h3 style="margin-top: 80px;">Clinica Carminatti</h3>
+            <h4>Dra Carolina Carminatti SRL</h4>
+          </div>
+
 
         </div>
 
@@ -494,57 +502,25 @@
 
         <div class="section-title">
           <h2>Equipo</h2>
-          <p>Sit sint consectetur velit quos quisquam cupiditate nemo qui</p>
+          <p>Este es el equipo dedicado siempre a llevar el mejor servicio de seguridad del mercado</p>
         </div>
 
-        <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
-              <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
-              </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
+        <div class="row justify-content-center">
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <img src="{{ asset('img/team/jefe.png') }}" alt="">
+              <h4>Cristian Pedro Dorigón</h4>
+              <span>Socio Gerente</span>
+              <br>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                Hace 30 años comprometido a mantener una empresa que proporcione el mejor servicio posible de seguridad.
               </p>
               <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
+                {{-- <a href=""><i class="icofont-twitter"></i></a>
                 <a href=""><i class="icofont-facebook"></i></a>
                 <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
-              <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
+                <a href=""><i class="icofont-linkedin"></i></a> --}}
               </div>
             </div>
           </div>
@@ -630,7 +606,7 @@
   <footer id="footer">
 
     <div class="footer-top">
-      <section id="historia">
+      <section id="particularidades">
       <div class="container">
         <div class="row">
 
@@ -646,13 +622,21 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-contact">
-            <h4>Nuestra historia</h4>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <h4>Particularidades</h4>
+            <p>Nos destacamos frente a la competencia porque tenemos las diferentes <strong>particularidades</strong>:
+              <br>
+              -No hay rotacion de vigiladores
+              <br>
+              -Atencion personalizada por directivos
+              <br>
+              -Sin deudas con organismos de control
+              <br>
+              -Sin conflictos judiciales con el personal de vigilancia</p>
           </div>
 
           <div class="col-lg-5 col-md-6 footer-contact">
-            <h4>Mision y Vision</h4>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <h4>Visión</h4>
+            <p>Nuestra visión es ampliar los servicios prestados pudiendo obtener <strong>NUEVOS CLIENTES</strong>, expandir la empresa, tener un mayor alcance y <strong>CONSOLIDAR LA FIDELIZACIÓN</strong> de los clientes que confian en nosotros actualmente.</p>
           </div>
 
         </div>
@@ -766,6 +750,31 @@
         })
       }
     })
+
+  </script>
+
+  <script type="text/javascript">
+
+    $('.link-details').click(function (e) {
+       e.preventDefault();
+       var copyText = $(this).prop('href');
+
+       document.addEventListener('copy', function(e) {
+          e.clipboardData.setData('text/plain', copyText);
+          e.preventDefault();
+       }, true);
+
+       document.execCommand('copy');  
+       Swal.fire({
+              title: 'Éxito!',
+              text: 'El link se ha copiado!',
+              icon: 'success',
+              showConfirmButton: true,
+              timer: 3000
+      })
+     
+     });
+
 
   </script>
 
