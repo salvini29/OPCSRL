@@ -973,7 +973,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info-wrap {
   padding: 30px;
-  background: #fff;
+  background: #f7fbfe;
   border-radius: 4px;
 }
 
@@ -1014,7 +1014,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: #f7fbfe;
   border-radius: 4px;
 }
 
@@ -1276,6 +1276,14 @@ section {
 }
 
 #footer .footer-top .footer-contact p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Raleway", sans-serif;
+  color: #777777;
+}
+
+#counts .counts-top .counts-contact p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
