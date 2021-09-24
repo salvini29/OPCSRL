@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>OPC S.R.L</title>
+  <title>OPC S.R.L.</title>
   <meta content="" name="keywords">
-  <meta name="description" content="OPC S.R.L Servicios de seguridad">
-  <meta property="og:title" content="OPC S.R.L" />
+  <meta name="description" content="OPC S.R.L. Servicios de seguridad">
+  <meta property="og:title" content="OPC S.R.L." />
   <meta property="og:url" content="{{route('landing')}}" />
-  <meta property="og:description" content="OPC S.R.L Servicios de seguridad">
+  <meta property="og:description" content="OPC S.R.L. Servicios de seguridad">
   <meta property="og:image" content="{{ asset('img/fondoblanco.png') }}">
 
   <!-- Favicons -->
@@ -42,7 +42,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <h1><a href="{{route('landing')}}">OPC S.R.L</a></h1>
+        <h1><a href="{{route('landing')}}">OPC S.R.L.</a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
@@ -50,7 +50,7 @@
           <li class="active"><a href="{{route('landing')}}">Inicio</a></li>
           <li><a href="#about">Nosotros</a></li>
           <li><a href="#services">Servicios</a></li>
-          <li><a href="#team">Equipo</a></li>
+          <li><a href="#team">Dirección</a></li>
           <li><a href="#testimonials">Clientes</a></li>
           <li><a href="#contact">Contacto</a></li>
 
@@ -66,8 +66,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
-      <h1>Bienvenido a <span>OPC S.R.L</span></h1>
-      <h2>Somos un equipo dedicado a proveer servicio de seguridad privada</h2>
+      <h1>Bienvenido a <span>OPC S.R.L.</span></h1>
+      <h2>Somos un equipo dedicado a proveer SERVICIOS de SEGURIDAD PRIVADA</h2>
       <a href="#about" class="btn-get-started scrollto">EMPEZAR</a>
     </div>
   </section><!-- End Hero -->
@@ -79,8 +79,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Que hacemos en OPC S.R.L?</h2>
-          <p>Brindamos servicios de seguridad fisica, electronica, estudios de seguridad, auditorias y gerenciamiento externo</p>
+          <h2>¿Qué hacemos en OPC S.R.L.?</h2>
+          <p>Brindamos servicios de seguridad física, electrónica, estudios de seguridad, auditorías y gerenciamiento externo</p>
         </div>
 
       </div>
@@ -97,7 +97,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Sobre nosotros</h3>
             <p>
-              Aseguramos a todos nuestros clientes confianza, experiencia (30 años en el mercado), calidad, seguridad, compromiso, trato personalizado, respuesta inmediata y honestidad. 
+              Aseguramos a todos nuestros clientes confianza, experiencia (más de 30 años en el mercado), calidad, seguridad, compromiso, honestidad, respuesta inmediata. 
             </p>
             <ul>
               <li><i class="bx bx-check-double"></i> Brindamos excelente atención personalizada a cada uno de nuestros clientes.</li>   
@@ -131,32 +131,32 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 counts-contact" style="margin-top: 15px;">
-            <h3>OPC S.R.L</h3>
+            <h3>OPC S.R.L.</h3>
             <p>
               Monroe 2764 6 “A” <br>
               CABA, Buenos Aires<br>
               Argentina <br><br>
-              <strong>Telefono:</strong> 5351-7866<br>
+              <strong>Telefono:</strong>011 5351-7866<br>
               <strong>Email:</strong> opcsrlseguridad@gmail.com<br>
             </p>
           </div>
 
           <div class="col-lg-4 col-md-6 counts-contact" style="margin-top: 15px;">
             <h4>Particularidades</h4>
-            <p>Nos destacamos frente a la competencia porque tenemos las diferentes <strong>particularidades</strong>:
+            <p>Nos destacamos frente a la competencia porque tenemos las siguientes <strong>particularidades</strong>:
               <br>
-              -Muy baja rotacion de vigiladores
+              -Muy baja rotación de vigiladores.
               <br>
-              -Atencion personalizada por parte de nuestros directivos
+              -Atención personalizada por parte de nuestros directivos.
               <br>
-              -Sin deudas con organismos de control
+              -Sin deudas con organismos de control.
               <br>
-              -Sin conflictos judiciales con el personal de vigilancia</p>
+              -Sin conflictos judiciales con el personal de la empresa.</p>
           </div>
 
           <div class="col-lg-5 col-md-6 counts-contact" style="margin-top: 15px;">
             <h4>Visión</h4>
-            <p>Nuestra visión es ampliar los servicios prestados pudiendo obtener <strong>NUEVOS CLIENTES</strong>, expandir la empresa, tener un mayor alcance y <strong>CONSOLIDAR LA FIDELIZACIÓN</strong> de los clientes que confian en nosotros actualmente.</p>
+            <p>Nuestra visión es posicionarnos como una empresa de alto valor, ser reconocida por nuestro profesionalismo, eficacia e inmediatez en la gestión, actualizandonos día a día para brindar un servicio de calidad que provea <strong>CONFIANZA</strong> y <strong>TRANQUILIDAD</strong> al cliente.</p>
           </div>
 
         </div>
@@ -178,42 +178,42 @@
             <div class="icon-box">
               <i class="icofont-police-cap"></i>
               <h4><a>Seguridad física</a></h4>
-              <p>Trabajamos con personal minuciosamente seleccionado y capacitado de acuerdo a lo establecido por las normas vigentes</p>
+              <p>Trabajamos con personal minuciosamente seleccionado y capacitado de acuerdo a lo establecido por las normas vigentes.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="icofont-ui-alarm"></i>
               <h4><a>Sistemas de alarmas</a></h4>
-              <p>Ofrecemos sistemas de alarmas con tecnología de punta<br> para edificios, casas, predios y todo tipo de<br> instalaciones</p>
+              <p>Ofrecemos sistemas de alarmas con tecnología de punta<br> para edificios, casas, predios y todo tipo de<br> instalaciones.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-cc-camera"></i>
               <h4><a>Sistemas de circuito cerrado de televisión</a></h4>
-              <p>Disponemos de la tecnología de videovigilancia para supervisar y registrar las imágenes relacionadas con los aspectos de la seguridad y control de gestión</p>
+              <p>Disponemos de la tecnología de videovigilancia para supervisar y registrar las imágenes relacionadas con los aspectos de la seguridad y control de gestión.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-calculator-alt-2"></i>
               <h4><a>Sistemas para control de acceso</a></h4>
-              <p>Manejamos perfectamente sistemas diseñados exclusivamente para el control de acceso y registro de presentismo con tecnología de última generación</p>
+              <p>Manejamos perfectamente sistemas diseñados exclusivamente para el control de acceso y registro de presentismo con tecnología de última generación.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-investigation"></i>
               <h4><a>Estudios de seguridad</a></h4>
-              <p>Contamos con profesionales altamente capacitados para realizar la elaboración de relevamientos y estudios de seguridad en todo tipo de instalación </p>
+              <p>Contamos con profesionales altamente capacitados para realizar la elaboración de relevamientos y estudios de seguridad en todo tipo de instalación.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-read-book"></i>
               <h4><a>Auditoría y Gerenciamiento</a></h4>
-              <p>Estamos capacitados para realizar auditorías y gerenciamientos externos de todo tipo de sistemas de seguridad</p>
+              <p>Estamos capacitados para realizar auditorías y gerenciamientos externos de cualquier entidad que cuente con sistemas de seguridad.</p>
             </div>
           </div>
         </div>
@@ -226,8 +226,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Equipo</h2>
-          <p>Este es el equipo dedicado siempre a llevar el mejor servicio de seguridad del mercado</p>
+          <h2>Dirección</h2>
+          <p>La dirección de la empresa esta basada en la experiencia personal de su <strong>SOCIO GERENTE</strong> que cuenta con mas de 30 años ejerciendo la actividad, habiéndose desempeñado en puestos gerenciales en las distintas organizaciones de las que formo parte.</p>
         </div>
 
         <div class="row justify-content-center">
@@ -254,7 +254,7 @@
 
         <div class="section-title">
           <h2>Clientes</h2>
-          <p>Algunos de nuestros clientes que confian en nosotros</p>
+          <p>Algunos de nuestros clientes:</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
@@ -266,7 +266,7 @@
               <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
             </div>
             <br>
-            <h3 style="margin-top: 80px;">Olleros Medical Center</h3>
+            <h3 style="margin-top: 80px;">Clínica Dra. Carminatti</h3>
           </div>
 
           <div class="testimonial-item">
@@ -411,7 +411,7 @@
 
         <div class="section-title">
           <h2>Contacto</h2>
-          <p>Contactanos por cualquier pedido para contratarnos o duda</p>
+          <p>Contáctenos para recibir nuestro asesoramiento</p>
         </div>
 
         <div class="row mt-5 justify-content-center">
@@ -422,7 +422,7 @@
               <div class="row">
                 <div class="col-lg-4 info">
                   <i class="icofont-google-map"></i>
-                  <h4>Ubicacion:</h4>
+                  <h4>Ubicación:</h4>
                   <p>Monroe 2764 6 “A”</p>
                 </div>
 
@@ -434,8 +434,8 @@
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="icofont-phone"></i>
-                  <h4>Numero:</h4>
-                  <p>5351-7866</p>
+                  <h4>Número:</h4>
+                  <p>011 5351-7866</p>
                 </div>
               </div>
             </div>
