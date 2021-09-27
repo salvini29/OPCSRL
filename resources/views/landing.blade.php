@@ -67,7 +67,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
       <h1>Bienvenido a <span>OPC S.R.L.</span></h1>
-      <h2>Somos un equipo dedicado a proveer SERVICIOS de SEGURIDAD PRIVADA</h2>
+      <h2>Somos un equipo dedicado a proveer Servicios de Seguridad Privada</h2>
       <a href="#about" class="btn-get-started scrollto">EMPEZAR</a>
     </div>
   </section><!-- End Hero -->
@@ -80,7 +80,7 @@
 
         <div class="section-title">
           <h2>¿Qué hacemos en OPC S.R.L.?</h2>
-          <p>Brindamos servicios de seguridad física, electrónica, estudios de seguridad, auditorías y gerenciamiento externo</p>
+          <p>Brindamos servicios de seguridad física, electrónica, estudios de seguridad, auditorías y gerenciamiento externo.</p>
         </div>
 
       </div>
@@ -156,7 +156,7 @@
 
           <div class="col-lg-5 col-md-6 counts-contact" style="margin-top: 15px;">
             <h4>Visión</h4>
-            <p>Nuestra visión es posicionarnos como una empresa de alto valor, ser reconocida por nuestro profesionalismo, eficacia e inmediatez en la gestión, actualizandonos día a día para brindar un servicio de calidad que provea <strong>CONFIANZA</strong> y <strong>TRANQUILIDAD</strong> al cliente.</p>
+            <p>Nuestra visión es posicionarnos como una empresa de alto valor, ser reconocida por nuestro profesionalismo, eficacia e inmediatez en la gestión, actualizándonos día a día para brindar un servicio de calidad que provea <strong>CONFIANZA</strong> y <strong>TRANQUILIDAD</strong> al cliente.</p>
           </div>
 
         </div>
@@ -227,7 +227,7 @@
 
         <div class="section-title">
           <h2>Dirección</h2>
-          <p>La dirección de la empresa esta basada en la experiencia personal de su <strong>SOCIO GERENTE</strong> que cuenta con mas de 30 años ejerciendo la actividad, habiéndose desempeñado en puestos gerenciales en las distintas organizaciones de las que formo parte.</p>
+          <p>La dirección de la empresa está basada en la experiencia personal de su <strong>SOCIO GERENTE</strong> que cuenta con más de 30 años ejerciendo la actividad, habiéndose desempeñado en puestos gerenciales en las distintas organizaciones de las que formó parte.</p>
         </div>
 
         <div class="row justify-content-center">
@@ -397,6 +397,26 @@
             </div>
             <br>
             <h3 style="margin-top: 80px;">Administración Consortia BA</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <br>
+            <h3 style="margin-top: 80px;">Administración Vergara</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <div class="row" style="margin-top: 20px;">
+              <img src="{{ asset('img/testimonials/cliente.jpg') }}" class="testimonial-img" alt="">
+              <i class="icofont-plus" style="margin-top: 45px; color: black;"></i>
+              <img src="{{ asset('img/testimonials/cliente2.jpg') }}" class="testimonial-img" alt="">
+            </div>
+            <br>
+            <h3 style="margin-top: 80px;">Estudio IBG</h3>
           </div>
 
 
