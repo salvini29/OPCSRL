@@ -136,7 +136,7 @@
               Monroe 2764 6 “A” <br>
               CABA, Buenos Aires<br>
               Argentina <br><br>
-              <strong>Telefono:</strong>011 5351-7866<br>
+              <strong>Telefono:</strong>4966-7771<br>
               <strong>Email:</strong> opcsrlseguridad@gmail.com<br>
             </p>
           </div>
@@ -455,7 +455,7 @@
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="icofont-phone"></i>
                   <h4>Número:</h4>
-                  <p>011 5351-7866</p>
+                  <p>4966-7771</p>
                 </div>
               </div>
             </div>
