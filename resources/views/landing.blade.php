@@ -36,8 +36,6 @@
 </head>
 
 <body>
-
-  <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
@@ -55,26 +53,25 @@
           <li><a href="#contact">Contacto</a></li>
 
         </ul>
-      </nav><!-- .nav-menu -->
+      </nav>
 
       <div class="header-social-links">
       </div>
 
     </div>
-  </header><!-- End Header -->
+  </header>
 
-  <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
       <h1>Bienvenido a <span>OPC S.R.L.</span></h1>
       <h2>Somos un equipo dedicado a proveer Servicios de Seguridad Privada</h2>
       <a href="#about" class="btn-get-started scrollto">EMPEZAR</a>
     </div>
-  </section><!-- End Hero -->
+  </section>
 
   <main id="main">
 
-    <!-- ======= What We Do Section ======= -->
+
     <section id="what-we-do" class="what-we-do">
       <div class="container">
 
@@ -84,9 +81,9 @@
         </div>
 
       </div>
-    </section><!-- End What We Do Section -->
+    </section>
 
-    <!-- ======= About Section ======= -->
+
     <section id="about" class="about">
       <div class="container">
 
@@ -104,7 +101,6 @@
             </ul>
             <div class="row icon-boxes">
               <div class="col-md-6">
-                {{-- <i class="bx bx-dollar" style="margin-left: 45px;"></i> --}}
                 <div style="margin-top: 20px;"> 
                   <h4>Valor de servicio</h4>
                   <p>Tenemos un valor altamente competitivo respecto a las demas opciones del mercado.</p>
@@ -121,10 +117,10 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
     <br>
     <br>
-    <!-- ======= Counts Section ======= -->
+
     <section id="counts" class="counts">
       <div class="counts-top">
       <div class="container">
@@ -162,9 +158,8 @@
         </div>
       </div>
       </div>
-    </section><!-- End Counts Section -->
+    </section>
 
-    <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container">
 
@@ -219,9 +214,8 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
 
-    <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container">
 
@@ -246,9 +240,8 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section>
 
-    <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
       <div class="container">
 
@@ -423,9 +416,8 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
 
-    <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
 
@@ -493,11 +485,10 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section>
 
-  </main><!-- End #main -->
+  </main>
 
-  <!-- ======= Footer ======= -->
   <footer id="footer">
 
     <div class="container d-md-flex py-4">
@@ -519,11 +510,11 @@
       </section>
     </div>
 
-  </footer><!-- End Footer -->
+  </footer>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <!-- Vendor JS Files -->
+
   <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
   <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
   <script src="{{ asset('vendor/jquery.easing/jquery.easing.min.js') }}"></script>
@@ -534,7 +525,7 @@
   <script src="{{ asset('vendor/venobox/venobox.min.js') }}"></script>
   <script src="{{ asset('vendor/owl.carousel/owl.carousel.min.js') }}"></script>
 
-  <!-- Template Main JS File -->
+
   <script src="{{ asset('js/main.js') }}"></script>
 
   <script src="{{ asset('js/sweetalert2.all.min.js') }}"></script>
